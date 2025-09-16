@@ -23,8 +23,8 @@ The algorithm combines three key techniques:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sssp-sorting-barrier.git
-cd sssp-sorting-barrier
+https://github.com/songminkyu/breaking-sorting-barrier-sssp.git
+cd breaking-sorting-barrier-sssp
 
 # No external dependencies required - uses only Python standard library
 python --version  # Requires Python 3.7+
